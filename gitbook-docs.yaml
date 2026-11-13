@@ -1,0 +1,11 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: akchhat
+  structure:
+    - type: space
+      key: space-1
+      title: Ronin66 Red Team Labs
+      path: subscriber-windows
+      default: true
+      content:
+        directory: ./Notes
