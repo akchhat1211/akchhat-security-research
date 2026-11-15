@@ -35,3 +35,7 @@
 * [Arasaka(AD)](hacksmarter/arasaka-ad.md)
 * [404 Bank(AD)](hacksmarter/404-bank-ad.md)
 * [Sysco(AD)](hacksmarter/sysco-ad.md)
+
+## HackTheBox
+
+* [Checkpoint(AD)](hackthebox/checkpoint-ad.md)
