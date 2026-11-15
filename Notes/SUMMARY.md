@@ -2,7 +2,7 @@
 
 * [Akchhat's Security Writeups](README.md)
 
-## C2 TRADECRAFT
+## Red Team TRADECRAFT
 
 ## Initial Access
 
