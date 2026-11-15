@@ -244,7 +244,7 @@ SMB         10.129.48.4     445    DC01             VMBackups
 * We do see a description which says `VS Code extensions share for approved .vsix packages compatible with VS Code engine 1.118.0` so we can utilize a `vscode extension` to get a reverse shell
 * we got to know this attack path by doing a bit of research we found out the payload that works
 
-[https://github.com/securezeron/VsCodeExtLure](https://github.com/securezeron/VsCodeExtLure)
+{% embed url="https://github.com/securezeron/VsCodeExtLure" %}
 
 * Now we go ahead and use it
 * We modifed the `config.JSON` as we have to change it to our IP for reverse shell and the port specified was `9098`
