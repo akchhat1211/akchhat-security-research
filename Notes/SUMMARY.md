@@ -14,6 +14,7 @@
 ## Persistence
 
 * [WMI Persistence vs Elastic: One Alert Was All It Took](persistence/wmi-persistence-vs-elastic-one-alert-was-all-it-took.md)
+* [Abusing Chrome Extension for Persistence](persistence/abusing-chrome-extension-for-persistence.md)
 
 ## Ronin66 Red Team Labs
 
