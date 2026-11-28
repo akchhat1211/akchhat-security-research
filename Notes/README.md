@@ -24,6 +24,7 @@ Most of what I know didn't come from a syllabus. It came from building labs, bre
 
 | Certification                                                                                                                   |
 | ------------------------------------------------------------------------------------------------------------------------------- |
+| CRTO —  [Certified Red Team Operator](https://certs.zeropointsecurity.co.uk/890f67f2-fb6e-435a-ba24-52b66191a1fa#acc.8OGV1LKz)  |
 | CRTP — [Certified Red Team Professional](https://www.credential.net/65a21627-871a-4c28-a0b7-5856e22c5941#acc.RVJP1pAr)          |
 | CRTA — [Certified Red Team Analyst](https://labs.cyberwarfare.live/credential/achievement/694a51f343d741621d61c149)             |
 | AD-RTS — [Active Directory Red Team Specialist](https://labs.cyberwarfare.live/credential/achievement/69661ddc90d62657ac62be55) |
